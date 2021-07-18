@@ -1,0 +1,5 @@
+1024	 #Cache size
+64  	 #Cache line size
+4   	 #4-way set-associative cache
+2   	 #Pseudo-LRU replacement
+traces.txt
